@@ -23,7 +23,7 @@ Even if you are prepared, you will have bad days and good days. Things that are 
 
 This is why this will lead up to my next point.
 
-#### Play to learn, not play to win
+#### `Play to learn, not play to win`
 Yes you want that Big N job, we all want it. However, you cannot get that job unless you start shifting your objective from "winning" to "learning". "Winning" should never be your first objective, your first objective is to "learn". Why? For some, if "winning" was their first objective, they run into starter paralysis aka. fear. Afraid to lose. When "winning" or "losing" becomes your first priority, you become blinded from how the process can take you there. For others, people try to cheat the game by memorizing instead of ultimately learning which is by far more fundamentally sound for the lifespan of your career. Don't get me wrong, having a goal to win is important, but remember, its just a long term goal, not an obstacle.
 
 # How should you practice for whiteboard coding questions
